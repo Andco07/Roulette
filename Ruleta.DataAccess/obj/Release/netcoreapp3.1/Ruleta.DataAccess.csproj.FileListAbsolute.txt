@@ -1,0 +1,17 @@
+D:\Pruebas\Masiv\Ruleta\Ruleta\Ruleta.DataAccess\bin\Release\netcoreapp3.1\Ruleta.DataAccess.deps.json
+D:\Pruebas\Masiv\Ruleta\Ruleta\Ruleta.DataAccess\bin\Release\netcoreapp3.1\Ruleta.DataAccess.dll
+D:\Pruebas\Masiv\Ruleta\Ruleta\Ruleta.DataAccess\bin\Release\netcoreapp3.1\Ruleta.DataAccess.pdb
+D:\Pruebas\Masiv\Ruleta\Ruleta\Ruleta.DataAccess\bin\Release\netcoreapp3.1\Ruleta.Abstractions.dll
+D:\Pruebas\Masiv\Ruleta\Ruleta\Ruleta.DataAccess\bin\Release\netcoreapp3.1\Ruleta.Entities.dll
+D:\Pruebas\Masiv\Ruleta\Ruleta\Ruleta.DataAccess\bin\Release\netcoreapp3.1\Ruleta.Services.dll
+D:\Pruebas\Masiv\Ruleta\Ruleta\Ruleta.DataAccess\bin\Release\netcoreapp3.1\Ruleta.Abstractions.pdb
+D:\Pruebas\Masiv\Ruleta\Ruleta\Ruleta.DataAccess\bin\Release\netcoreapp3.1\Ruleta.Entities.pdb
+D:\Pruebas\Masiv\Ruleta\Ruleta\Ruleta.DataAccess\bin\Release\netcoreapp3.1\Ruleta.Services.pdb
+D:\Pruebas\Masiv\Ruleta\Ruleta\Ruleta.DataAccess\obj\Release\netcoreapp3.1\Ruleta.DataAccess.csproj.AssemblyReference.cache
+D:\Pruebas\Masiv\Ruleta\Ruleta\Ruleta.DataAccess\obj\Release\netcoreapp3.1\Ruleta.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pruebas\Masiv\Ruleta\Ruleta\Ruleta.DataAccess\obj\Release\netcoreapp3.1\Ruleta.DataAccess.AssemblyInfoInputs.cache
+D:\Pruebas\Masiv\Ruleta\Ruleta\Ruleta.DataAccess\obj\Release\netcoreapp3.1\Ruleta.DataAccess.AssemblyInfo.cs
+D:\Pruebas\Masiv\Ruleta\Ruleta\Ruleta.DataAccess\obj\Release\netcoreapp3.1\Ruleta.DataAccess.csproj.CoreCompileInputs.cache
+D:\Pruebas\Masiv\Ruleta\Ruleta\Ruleta.DataAccess\obj\Release\netcoreapp3.1\Ruleta.DataAccess.csproj.CopyComplete
+D:\Pruebas\Masiv\Ruleta\Ruleta\Ruleta.DataAccess\obj\Release\netcoreapp3.1\Ruleta.DataAccess.dll
+D:\Pruebas\Masiv\Ruleta\Ruleta\Ruleta.DataAccess\obj\Release\netcoreapp3.1\Ruleta.DataAccess.pdb

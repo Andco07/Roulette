@@ -1,0 +1,77 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Ruleta.Repository/1.0.0": {
+        "dependencies": {
+          "Ruleta.Abstractions": "1.0.0",
+          "Ruleta.DataAccess": "1.0.0",
+          "Ruleta.Entities": "1.0.0",
+          "Ruleta.Services": "1.0.0"
+        },
+        "runtime": {
+          "Ruleta.Repository.dll": {}
+        }
+      },
+      "Ruleta.Abstractions/1.0.0": {
+        "runtime": {
+          "Ruleta.Abstractions.dll": {}
+        }
+      },
+      "Ruleta.DataAccess/1.0.0": {
+        "dependencies": {
+          "Ruleta.Abstractions": "1.0.0",
+          "Ruleta.Entities": "1.0.0",
+          "Ruleta.Services": "1.0.0"
+        },
+        "runtime": {
+          "Ruleta.DataAccess.dll": {}
+        }
+      },
+      "Ruleta.Entities/1.0.0": {
+        "dependencies": {
+          "Ruleta.Abstractions": "1.0.0"
+        },
+        "runtime": {
+          "Ruleta.Entities.dll": {}
+        }
+      },
+      "Ruleta.Services/1.0.0": {
+        "runtime": {
+          "Ruleta.Services.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ruleta.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ruleta.Abstractions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ruleta.DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ruleta.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ruleta.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,10 @@
+D:\Pruebas\Masiv\Ruleta\Ruleta\Ruleta.Services\bin\Release\netcoreapp3.1\Ruleta.Services.deps.json
+D:\Pruebas\Masiv\Ruleta\Ruleta\Ruleta.Services\bin\Release\netcoreapp3.1\Ruleta.Services.dll
+D:\Pruebas\Masiv\Ruleta\Ruleta\Ruleta.Services\bin\Release\netcoreapp3.1\Ruleta.Services.pdb
+D:\Pruebas\Masiv\Ruleta\Ruleta\Ruleta.Services\obj\Release\netcoreapp3.1\Ruleta.Services.csproj.AssemblyReference.cache
+D:\Pruebas\Masiv\Ruleta\Ruleta\Ruleta.Services\obj\Release\netcoreapp3.1\Ruleta.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pruebas\Masiv\Ruleta\Ruleta\Ruleta.Services\obj\Release\netcoreapp3.1\Ruleta.Services.AssemblyInfoInputs.cache
+D:\Pruebas\Masiv\Ruleta\Ruleta\Ruleta.Services\obj\Release\netcoreapp3.1\Ruleta.Services.AssemblyInfo.cs
+D:\Pruebas\Masiv\Ruleta\Ruleta\Ruleta.Services\obj\Release\netcoreapp3.1\Ruleta.Services.csproj.CoreCompileInputs.cache
+D:\Pruebas\Masiv\Ruleta\Ruleta\Ruleta.Services\obj\Release\netcoreapp3.1\Ruleta.Services.dll
+D:\Pruebas\Masiv\Ruleta\Ruleta\Ruleta.Services\obj\Release\netcoreapp3.1\Ruleta.Services.pdb

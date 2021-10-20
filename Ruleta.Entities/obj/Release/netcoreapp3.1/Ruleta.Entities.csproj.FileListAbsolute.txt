@@ -1,0 +1,13 @@
+D:\Pruebas\Masiv\Ruleta\Ruleta\Ruleta.Entities\bin\Release\netcoreapp3.1\Ruleta.Entities.deps.json
+D:\Pruebas\Masiv\Ruleta\Ruleta\Ruleta.Entities\bin\Release\netcoreapp3.1\Ruleta.Entities.dll
+D:\Pruebas\Masiv\Ruleta\Ruleta\Ruleta.Entities\bin\Release\netcoreapp3.1\Ruleta.Entities.pdb
+D:\Pruebas\Masiv\Ruleta\Ruleta\Ruleta.Entities\bin\Release\netcoreapp3.1\Ruleta.Abstractions.dll
+D:\Pruebas\Masiv\Ruleta\Ruleta\Ruleta.Entities\bin\Release\netcoreapp3.1\Ruleta.Abstractions.pdb
+D:\Pruebas\Masiv\Ruleta\Ruleta\Ruleta.Entities\obj\Release\netcoreapp3.1\Ruleta.Entities.csproj.AssemblyReference.cache
+D:\Pruebas\Masiv\Ruleta\Ruleta\Ruleta.Entities\obj\Release\netcoreapp3.1\Ruleta.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pruebas\Masiv\Ruleta\Ruleta\Ruleta.Entities\obj\Release\netcoreapp3.1\Ruleta.Entities.AssemblyInfoInputs.cache
+D:\Pruebas\Masiv\Ruleta\Ruleta\Ruleta.Entities\obj\Release\netcoreapp3.1\Ruleta.Entities.AssemblyInfo.cs
+D:\Pruebas\Masiv\Ruleta\Ruleta\Ruleta.Entities\obj\Release\netcoreapp3.1\Ruleta.Entities.csproj.CoreCompileInputs.cache
+D:\Pruebas\Masiv\Ruleta\Ruleta\Ruleta.Entities\obj\Release\netcoreapp3.1\Ruleta.Entities.csproj.CopyComplete
+D:\Pruebas\Masiv\Ruleta\Ruleta\Ruleta.Entities\obj\Release\netcoreapp3.1\Ruleta.Entities.dll
+D:\Pruebas\Masiv\Ruleta\Ruleta\Ruleta.Entities\obj\Release\netcoreapp3.1\Ruleta.Entities.pdb

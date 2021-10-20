@@ -1,0 +1,31 @@
+services:
+  mongo:
+    image: mongo
+    ports:
+    - published: 27017
+      target: 27017
+  redis:
+    image: redis:alpine
+    ports:
+    - published: 6379
+      target: 6379
+    restart: always
+  ruleta:
+    build:
+      context: D:\Pruebas\Masiv\Ruleta\Ruleta
+      dockerfile: Ruleta/Dockerfile
+    depends_on:
+      mongo:
+        condition: service_started
+      redis:
+        condition: service_started
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      Cache__Endpoint: redis
+      Serilog__WriteTo__0__Args__DatabaseUrl: mongodb://mongo/logs?uuidRepresentation=Standard
+    image: ruleta
+    ports:
+    - published: 81
+      target: 80
+    - target: 80
+version: '3.4'

@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="5.0.11" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.11" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Ruleta.Abstractions\Ruleta.Abstractions.csproj" />
+    <ProjectReference Include="..\Ruleta.Entities\Ruleta.Entities.csproj" />
+    <ProjectReference Include="..\Ruleta.Services\Ruleta.Services.csproj" />
+  </ItemGroup>
+
+</Project>

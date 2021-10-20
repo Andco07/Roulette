@@ -1,0 +1,272 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Pruebas\\Masiv\\Ruleta\\Ruleta\\Ruleta.DataAccess\\Ruleta.DataAccess.csproj": {}
+  },
+  "projects": {
+    "D:\\Pruebas\\Masiv\\Ruleta\\Ruleta\\Ruleta.Abstractions\\Ruleta.Abstractions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Pruebas\\Masiv\\Ruleta\\Ruleta\\Ruleta.Abstractions\\Ruleta.Abstractions.csproj",
+        "projectName": "Ruleta.Abstractions",
+        "projectPath": "D:\\Pruebas\\Masiv\\Ruleta\\Ruleta\\Ruleta.Abstractions\\Ruleta.Abstractions.csproj",
+        "packagesPath": "C:\\Users\\andco\\.nuget\\packages\\",
+        "outputPath": "D:\\Pruebas\\Masiv\\Ruleta\\Ruleta\\Ruleta.Abstractions\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\andco\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Pruebas\\Masiv\\Ruleta\\Ruleta\\Ruleta.DataAccess\\Ruleta.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Pruebas\\Masiv\\Ruleta\\Ruleta\\Ruleta.DataAccess\\Ruleta.DataAccess.csproj",
+        "projectName": "Ruleta.DataAccess",
+        "projectPath": "D:\\Pruebas\\Masiv\\Ruleta\\Ruleta\\Ruleta.DataAccess\\Ruleta.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\andco\\.nuget\\packages\\",
+        "outputPath": "D:\\Pruebas\\Masiv\\Ruleta\\Ruleta\\Ruleta.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\andco\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Pruebas\\Masiv\\Ruleta\\Ruleta\\Ruleta.Abstractions\\Ruleta.Abstractions.csproj": {
+                "projectPath": "D:\\Pruebas\\Masiv\\Ruleta\\Ruleta\\Ruleta.Abstractions\\Ruleta.Abstractions.csproj"
+              },
+              "D:\\Pruebas\\Masiv\\Ruleta\\Ruleta\\Ruleta.Entities\\Ruleta.Entities.csproj": {
+                "projectPath": "D:\\Pruebas\\Masiv\\Ruleta\\Ruleta\\Ruleta.Entities\\Ruleta.Entities.csproj"
+              },
+              "D:\\Pruebas\\Masiv\\Ruleta\\Ruleta\\Ruleta.Services\\Ruleta.Services.csproj": {
+                "projectPath": "D:\\Pruebas\\Masiv\\Ruleta\\Ruleta\\Ruleta.Services\\Ruleta.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Pruebas\\Masiv\\Ruleta\\Ruleta\\Ruleta.Entities\\Ruleta.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Pruebas\\Masiv\\Ruleta\\Ruleta\\Ruleta.Entities\\Ruleta.Entities.csproj",
+        "projectName": "Ruleta.Entities",
+        "projectPath": "D:\\Pruebas\\Masiv\\Ruleta\\Ruleta\\Ruleta.Entities\\Ruleta.Entities.csproj",
+        "packagesPath": "C:\\Users\\andco\\.nuget\\packages\\",
+        "outputPath": "D:\\Pruebas\\Masiv\\Ruleta\\Ruleta\\Ruleta.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\andco\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Pruebas\\Masiv\\Ruleta\\Ruleta\\Ruleta.Abstractions\\Ruleta.Abstractions.csproj": {
+                "projectPath": "D:\\Pruebas\\Masiv\\Ruleta\\Ruleta\\Ruleta.Abstractions\\Ruleta.Abstractions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Pruebas\\Masiv\\Ruleta\\Ruleta\\Ruleta.Services\\Ruleta.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Pruebas\\Masiv\\Ruleta\\Ruleta\\Ruleta.Services\\Ruleta.Services.csproj",
+        "projectName": "Ruleta.Services",
+        "projectPath": "D:\\Pruebas\\Masiv\\Ruleta\\Ruleta\\Ruleta.Services\\Ruleta.Services.csproj",
+        "packagesPath": "C:\\Users\\andco\\.nuget\\packages\\",
+        "outputPath": "D:\\Pruebas\\Masiv\\Ruleta\\Ruleta\\Ruleta.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\andco\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

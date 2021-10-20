@@ -1,0 +1,10 @@
+D:\Pruebas\Masiv\Ruleta\Ruleta\Ruleta.Abstractions\bin\Debug\netcoreapp3.1\Ruleta.Abstractions.deps.json
+D:\Pruebas\Masiv\Ruleta\Ruleta\Ruleta.Abstractions\bin\Debug\netcoreapp3.1\Ruleta.Abstractions.dll
+D:\Pruebas\Masiv\Ruleta\Ruleta\Ruleta.Abstractions\bin\Debug\netcoreapp3.1\Ruleta.Abstractions.pdb
+D:\Pruebas\Masiv\Ruleta\Ruleta\Ruleta.Abstractions\obj\Debug\netcoreapp3.1\Ruleta.Abstractions.csproj.AssemblyReference.cache
+D:\Pruebas\Masiv\Ruleta\Ruleta\Ruleta.Abstractions\obj\Debug\netcoreapp3.1\Ruleta.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pruebas\Masiv\Ruleta\Ruleta\Ruleta.Abstractions\obj\Debug\netcoreapp3.1\Ruleta.Abstractions.AssemblyInfoInputs.cache
+D:\Pruebas\Masiv\Ruleta\Ruleta\Ruleta.Abstractions\obj\Debug\netcoreapp3.1\Ruleta.Abstractions.AssemblyInfo.cs
+D:\Pruebas\Masiv\Ruleta\Ruleta\Ruleta.Abstractions\obj\Debug\netcoreapp3.1\Ruleta.Abstractions.csproj.CoreCompileInputs.cache
+D:\Pruebas\Masiv\Ruleta\Ruleta\Ruleta.Abstractions\obj\Debug\netcoreapp3.1\Ruleta.Abstractions.dll
+D:\Pruebas\Masiv\Ruleta\Ruleta\Ruleta.Abstractions\obj\Debug\netcoreapp3.1\Ruleta.Abstractions.pdb

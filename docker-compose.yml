@@ -1,0 +1,29 @@
+version: '3.4'
+
+services:
+  ruleta:
+    image: ${DOCKER_REGISTRY-}ruleta
+    build:
+      context: .
+      dockerfile: Ruleta/Dockerfile
+    ports:
+        - "81:80"
+    environment:       
+      - "Serilog__WriteTo__0__Args__DatabaseUrl=mongodb://mongo/logs?uuidRepresentation=Standard"
+      - "Cache__Endpoint=redis"
+
+    depends_on:
+        - "mongo"
+        - "redis"
+
+  redis:
+    image: redis:alpine
+    restart: always
+    ports:
+        - "6379:6379"
+
+
+  mongo: 
+    image: mongo
+    ports:
+        - "27017:27017"

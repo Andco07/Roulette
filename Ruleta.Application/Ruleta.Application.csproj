@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Ruleta.Abstractions\Ruleta.Abstractions.csproj" />
+    <ProjectReference Include="..\Ruleta.Entities\Ruleta.Entities.csproj" />
+    <ProjectReference Include="..\Ruleta.Repository\Ruleta.Repository.csproj" />
+    <ProjectReference Include="..\Ruleta.Services\Ruleta.Services.csproj" />
+  </ItemGroup>
+
+</Project>
